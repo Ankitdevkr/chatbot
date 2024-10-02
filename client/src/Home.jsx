@@ -18,7 +18,7 @@ import {faFacebookF,faTwitter,faInstagram, faLinkedinIn} from '@fortawesome/free
 export default function Home() {
     return (
         <>
-            {/* <section id="navbar">
+            <section id="navbar">
         <center>
        <Navbar expand="lg" className="bg-body fixed">
       <Container>
@@ -35,7 +35,7 @@ export default function Home() {
       </Container>
     </Navbar>
     </center>
-        </section> */}
+        </section>
         <section id="home1">
   <video className="background-video" autoPlay loop muted playsInline>
     <source src={backvideo} type="video/mp4" />
