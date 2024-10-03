@@ -63,6 +63,12 @@ border-radius: 40px !important;
   border-color: white !important;
   font-size: larger !important;
 }
+
+/* chatbot feature */
+.chatbotfeatures{
+padding:20px;
+align-items: center;
+}
 #img{
   margin:50px;
 }
@@ -107,25 +113,25 @@ font-size: 60px !important;
 font-weight: 700;
 }
 .description{
-  font-size: 20px !important;
+  font-size: 18px !important;
 }
 .aboutdes{
   margin:5%;
-  max-width: 520px !important;
+  max-width: 620px !important;
   align-content: center;
 }
 
 
+
+
 /* sucess section  */
 #success{
-margin: 50px;
+ margin: 2%;
 
 }
-.testimonial{
-  padding:40px !important;
-}
-.name{
-  padding:20px 0 20px 0 !important;
+.testimonialcard{
+  margin: 20px;
+padding:20px;
 }
 
 /* adventure section  */
